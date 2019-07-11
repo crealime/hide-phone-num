@@ -3,7 +3,7 @@
 
 html
 
-    <div class="phone" data-tel="+38 (063) 060-38-93">
+    <div class="phone" data-tel="+38 (050) 555-55-55">
         <a href="#">show</a>
     </div>
 
