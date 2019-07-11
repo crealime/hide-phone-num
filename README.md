@@ -13,3 +13,6 @@ js
         showNumber: 9, // Number of displayed digits
         linkClass: 'tel-link' // Class for link
     });
+    
+Example
+https://codepen.io/crealime/pen/pXYNqa
