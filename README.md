@@ -14,6 +14,6 @@ js
         linkClass: 'tel-link' // Class for link
     });
     
-Example:
+Example
 
 https://codepen.io/crealime/pen/pXYNqa
