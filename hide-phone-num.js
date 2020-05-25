@@ -13,6 +13,7 @@
 					telNewNum = telNum.replace(myRegex, '');
 
 			$(this).html(telNum.substr(0, settings.showNumber) + " " + htmlNum);
+			$(this).attr("data-tel", "");
 
 			$(this).find('a').on('click', function(e) {
 				e.preventDefault();
